@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.venv/
+env/
+*.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+faiss_index
+*.windsurfrules
